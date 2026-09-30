@@ -1,0 +1,11 @@
+Place the BRIAAI RMBG-1.4 model folder here (optional).
+
+Option A — automatic (default):
+  First API start downloads: briaai/RMBG-1.4 from Hugging Face
+
+Option B — offline / your copy:
+  Put the full model directory at:
+    backend/models/RMBG-1.4/
+  (must include config.json + weights)
+
+Then POST /api/model/reload or restart uvicorn.
