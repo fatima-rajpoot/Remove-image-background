@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Erase AI
 
 ```
@@ -25,3 +26,7 @@ npm run dev
 ```
 
 Open the Vite URL (usually http://localhost:5173). It proxies `/api` to the backend.
+=======
+# Remove-image-background
+AI-powered web application built using React, CSS, Python, and an AI model to provide intelligent image processing and automation features.
+>>>>>>> e24dcf853d3910359890527fd6a6cc8a7312f542
